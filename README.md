@@ -1,0 +1,2 @@
+# qetpdf-wydania
+Instalatory QETPDF
